@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/muhammadalishihab/muhammadalishihab/static/css/main.b5ed727d.css",
+    "main.js": "/muhammadalishihab/muhammadalishihab/static/js/main.3f81a63e.js",
+    "static/media/shihab.png": "/muhammadalishihab/muhammadalishihab/static/media/shihab.555f5ccc6f2c601dd836.png",
+    "static/media/vdllm.mp4": "/muhammadalishihab/muhammadalishihab/static/media/vdllm.aa82e4035de88cf36781.mp4",
+    "static/media/vdnovac.mp4": "/muhammadalishihab/muhammadalishihab/static/media/vdnovac.40782f9bf0caaf71bc40.mp4",
+    "static/media/react.png": "/muhammadalishihab/muhammadalishihab/static/media/react.2f2532db663fd5ec5f95.png",
+    "static/media/fire.png": "/muhammadalishihab/muhammadalishihab/static/media/fire.5aa7cf22cd45ec6bbec2.png",
+    "static/media/g1.webp": "/muhammadalishihab/muhammadalishihab/static/media/g1.b8afae1c1597774d3121.webp",
+    "static/media/th2.webp": "/muhammadalishihab/muhammadalishihab/static/media/th2.6e006c76481c63391adf.webp",
+    "static/media/g2.webp": "/muhammadalishihab/muhammadalishihab/static/media/g2.7321d4e65561491b1650.webp",
+    "static/media/bodybg.png": "/muhammadalishihab/muhammadalishihab/static/media/bodybg.570383891b06b401c657.png",
+    "static/media/3.webp": "/muhammadalishihab/muhammadalishihab/static/media/3.143141cbc8f51dc0ba43.webp",
+    "static/media/4.webp": "/muhammadalishihab/muhammadalishihab/static/media/4.5cc4ee8ea35cd2dd33d9.webp",
+    "static/media/flutter.png": "/muhammadalishihab/muhammadalishihab/static/media/flutter.5ef31f96970c20456c6b.png",
+    "static/media/2.webp": "/muhammadalishihab/muhammadalishihab/static/media/2.04853609cd9d2a8cd6d4.webp",
+    "static/media/6.webp": "/muhammadalishihab/muhammadalishihab/static/media/6.936948c4067b7720779b.webp",
+    "static/media/g3.webp": "/muhammadalishihab/muhammadalishihab/static/media/g3.d7f997e6314c04f645e4.webp",
+    "static/media/th4.webp": "/muhammadalishihab/muhammadalishihab/static/media/th4.d0bf6f36d1e432233c40.webp",
+    "static/media/1.webp": "/muhammadalishihab/muhammadalishihab/static/media/1.9921c6143276e3c17d70.webp",
+    "static/media/th5.webp": "/muhammadalishihab/muhammadalishihab/static/media/th5.441f52693dd869208545.webp",
+    "static/media/th3.webp": "/muhammadalishihab/muhammadalishihab/static/media/th3.f01b5d6bb2c4e60c4c3e.webp",
+    "static/media/mysql.png": "/muhammadalishihab/muhammadalishihab/static/media/mysql.a6e182e14c2248364006.png",
+    "static/media/th1.webp": "/muhammadalishihab/muhammadalishihab/static/media/th1.76fbfea80bbb980d17d2.webp",
+    "static/media/gdsc.png": "/muhammadalishihab/muhammadalishihab/static/media/gdsc.5ead9c0f154a09e133ae.png",
+    "static/media/dart.png": "/muhammadalishihab/muhammadalishihab/static/media/dart.4c039ed9bad19dc90cc9.png",
+    "static/media/5.webp": "/muhammadalishihab/muhammadalishihab/static/media/5.27bdd938db19648ceea3.webp",
+    "static/media/mongo.png": "/muhammadalishihab/muhammadalishihab/static/media/mongo.63562434bfd990e564bb.png",
+    "static/media/slick.svg": "/muhammadalishihab/muhammadalishihab/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/muhammadalishihab/muhammadalishihab/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/muhammadalishihab/muhammadalishihab/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/muhammadalishihab/muhammadalishihab/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/muhammadalishihab/muhammadalishihab/index.html",
+    "main.b5ed727d.css.map": "/muhammadalishihab/muhammadalishihab/static/css/main.b5ed727d.css.map",
+    "main.3f81a63e.js.map": "/muhammadalishihab/muhammadalishihab/static/js/main.3f81a63e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5ed727d.css",
+    "static/js/main.3f81a63e.js"
+  ]
+}
