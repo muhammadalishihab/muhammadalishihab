@@ -144,10 +144,10 @@ function Home() {
         <h1 className="font-bold md:text-4xl mb-1 md:mb-4 text-[#8CC63F]">
           Hey !
         </h1>
-        <h1 className="font-bold text-3xl md:text-6xl mb-8 text-[#e6facd] w-[90%]  md:w-[60%] xl:w-[50%]">
+        <h1 className="font-bold text-3xl md:text-6xl mb-8 text-[#00346C] w-[90%]  md:w-[60%] xl:w-[50%]">
           I,m Muhammad Ali Shihab V S
         </h1>
-        <p className="header-text text-sm md:text-xl text-[#ffffff] ">
+        <p className="header-text text-sm md:text-xl text-[#00346C] ">
           Driven software developer with a passion for innovation and a
           commitment to creating outstanding solutions.
         </p>
